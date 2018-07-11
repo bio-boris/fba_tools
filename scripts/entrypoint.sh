@@ -1,5 +1,5 @@
 #!/bin/bash
-
+sleep 60
 . /kb/deployment/user-env.sh
 
 python ./scripts/prepare_deploy_cfg.py ./deploy.cfg ./work/config.properties
