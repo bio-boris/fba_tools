@@ -1,5 +1,5 @@
 module-name:
-    fba_tools
+    boris_tools
 
 module-description:
     This module includes implementation of official KBase functions that comprise the metabolic modeling pipeline of KBase.
@@ -10,5 +10,5 @@ service-language:
 module-version:
     1.7.5
 owners:
-    [chenry, jjeffryes]
+    [bsadkhin]
 
